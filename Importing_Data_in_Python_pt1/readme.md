@@ -12,6 +12,6 @@
 
 ### Files
 
-* Importing_Flat_files.ipynb
-* Importing_Other_file_Types.ipynb
-* Working_With_ Relational_Databases.ipynb
+* [Importing_Flat_files.ipynb](https://github.com/Rion5/Python_Data_Science/blob/master/Importing_Data_in_Python_pt1/Importing_Flat_Files.ipynb)
+* [Importing_Other_file_Types.ipynb](https://github.com/Rion5/Python_Data_Science/blob/master/Importing_Data_in_Python_pt1/Importing_Other_File_Types.ipynb)
+* [Working_With_ Relational_Databases.ipynb](https://github.com/Rion5/Python_Data_Science/blob/master/Importing_Data_in_Python_pt1/Working_With_Relational_Databases.ipynb)
