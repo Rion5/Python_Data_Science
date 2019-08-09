@@ -11,18 +11,15 @@
 * **Iterator**
   * An object with an associated next() method
 
-#### Files: Introduction_to_Iterators.ipynb, List_Comprehensions_and_Generators.ipynb
+## List Comprehensions and Generators
 
-# Importing Data in Python Part I
+* **List Comprehensions**
+  * Returns a List
+* **Generators**
+  * Returns a Generators Object
+  * Generators do not store data in memory, it does not construct the list, BUT is an object we can iterate over
 
-## Import Data
+### Files
 
-* Flat files
-  * Plain text files (.txt)
-  * Table Data (.csv)
-* Files from other software
-  * Excel (.xls)
-* Relational Databases
-  * SQL
-
-#### Files: Importing_Data_in_Python_pt1.ipynb
+* Introduction_to_Iterators.ipynb
+* List_Comprehensions_and_Generators.ipynb
